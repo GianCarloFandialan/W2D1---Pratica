@@ -34,7 +34,7 @@ body{
   padding: 30px 32px;
   border-radius: 48px;
   cursor: pointer;
-  transition: 1S;
+  transition: 0.5S ease-out;
 }
 
 .card-container:hover .save-button{
@@ -58,7 +58,7 @@ body{
   bottom: -10%;
   left: 5%;
   right: 5%;
-  transition: 1S;
+  transition: 0.5S ease-out;
 }
 
 
