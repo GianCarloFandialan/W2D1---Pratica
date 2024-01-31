@@ -84,6 +84,7 @@ body{
   margin-right: 10px;
   transform: translate(0, 33%);
   cursor: pointer;
+  opacity: 0.8;
 }
 
 .share-button{
@@ -94,6 +95,7 @@ body{
   margin-right: 10px;
   user-select: none;
   cursor: pointer;
+  opacity: 0.8;
 }
 
 .other-button{
@@ -103,6 +105,7 @@ body{
   border-radius: 32.5px;
   user-select: none;
   cursor: pointer;
+  opacity: 0.8;
 }
 
 .card-overlay{
